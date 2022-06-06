@@ -1,6 +1,6 @@
 {
   "name": "@me5on/epimise",
-  "version": "0.0.0+1",
+  "version": "0.0.1+2",
   "description": "lazy promise",
   "type": "module",
   "main": "./src/index.js",
@@ -31,7 +31,7 @@
     "ncu:runp": "npx npm-check-updates -u --target patch",
     "prepare": "husky install",
     "test": "npm run jst:once",
-    "start": "npm run jst:wtch"
+    "start": "npm run jst:wcvr"
   },
   "devDependencies": {
     "@jest/globals": "^28.1.0",
